@@ -1,0 +1,25 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="fileExclusions">
+      <list>
+        <option value="src/components/*.js" />
+        <option value="src/components/*.vue" />
+        <option value="src/components/*/*.vue" />
+        <option value="src/components/**/*.js" />
+        <option value="src/components/**/**/*.js" />
+        <option value="src/components/**/**/*.vue" />
+      </list>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://127.0.0.1:9000" />
+          <token>df9bdf9fdf99df9bdf9adf99dfc8dfc8df9fdf9adfc9df99dfc8dfc8dfcedf9ddf9cdf9bdf98dfc9dfcfdf93df9ddf9ddfc8dfcedf99df99df92df9ddf99dfcbdfc9df93df9edf99dfcbdfcfdf9bdf9c</token>
+          <option name="name" value="local" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
