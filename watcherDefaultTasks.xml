@@ -4,7 +4,7 @@
       <option name="arguments" value="--no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="SCSS" />
@@ -21,25 +21,19 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile $FileParentDir$ --sass-dir sass --css-dir stylesheets" />
+      <option name="arguments" value="compile &quot;&quot; $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="" />
+      <option name="output" value="$FileNameWithoutAllExtensions$.css" />
       <option name="outputFilters">
-        <array>
-          <FilterInfo>
-            <option name="description" value="" />
-            <option name="name" value="" />
-            <option name="regExp" value="" />
-          </FilterInfo>
-        </array>
+        <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Ruby22-x64/bin/scss.bat" />
+      <option name="program" value="C:/Ruby22-x64/bin/compass.bat" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
