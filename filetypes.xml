@@ -5,6 +5,8 @@
       <mapping ext="py" type="PHP" />
       <mapping pattern="customer_update_sql" type="PLAIN_TEXT" />
       <mapping pattern=".asscache" type="PLAIN_TEXT" />
+      <mapping pattern="ecology" type="PLAIN_TEXT" />
+      <mapping pattern="product_config.sql" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
       <mapping ext="lex" type="PLAIN_TEXT" />
