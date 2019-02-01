@@ -162,11 +162,20 @@
           <option name="url" value="https://git.coding.net/moore_lilei/Moore.Ren_REngineLog.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:lzguxiandu/shopkeeper.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:qudanTeam/qudan.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/qudanTeam/qudan.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\mooreDoing" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
   </component>
 </application>
