@@ -9,6 +9,7 @@
       <mapping pattern="product_config.sql" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="lex" type="PLAIN_TEXT" />
       <mapping pattern="qiuzhi-career" type="SQL" />
     </extensionMap>
