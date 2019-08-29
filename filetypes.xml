@@ -10,6 +10,7 @@
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="readme" type="PLAIN_TEXT" />
       <mapping ext="rar" type="PLAIN_TEXT" />
       <mapping ext="lex" type="PLAIN_TEXT" />
       <mapping pattern="qiuzhi-career" type="SQL" />
