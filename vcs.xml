@@ -210,9 +210,13 @@
           <option name="url" value="https://github.com/1and1/cosmo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e.coding.net/mooreelite/Moore.Ren_Web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\mooreDoing" />
+    <option name="cloneParentDir" value="E:\mooredoing" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
