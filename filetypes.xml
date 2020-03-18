@@ -8,6 +8,7 @@
       <mapping pattern=".asscache" type="PLAIN_TEXT" />
       <mapping pattern="ecology" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="readme" type="PLAIN_TEXT" />
       <mapping ext="rar" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
