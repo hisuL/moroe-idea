@@ -218,6 +218,10 @@
           <option name="url" value="https://e.coding.net/mooreelite/Moore.Cloud_WebBE.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e.coding.net/mooreelite/moore_weave_extension.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\doing" />
